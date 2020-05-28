@@ -115,7 +115,7 @@ class Ui_MainWindow(object):
         self.pp1.setStyleSheet("font: 22pt \"MV Boli\";")
         self.pp1.setObjectName("pp1")
         self.label_3 = QtWidgets.QLabel(self.page)
-        self.label_3.setGeometry(QtCore.QRect(750, 760, 381, 20))
+        self.label_3.setGeometry(QtCore.QRect(750, 760, 390, 20))
         font = QtGui.QFont()
         font.setPointSize(11)
         font.setBold(True)
