@@ -1080,7 +1080,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.label.setText(_translate("MainWindow", "WELCOME TO EMOTIONAL HEALTH ASSISTANCE"))
         self.pp1.setText(_translate("MainWindow", "LETS EXPLORE IT"))
-        self.label_3.setText(_translate("MainWindow", "CREATED BY- EKTA KUMARI"))
+        self.label_3.setText(_translate("MainWindow", "CREATED BY- EKTA KUMARI, RIYA SHARMA"))
         self.p11.setText(_translate("MainWindow", "NUMB"))
         self.p20.setText(_translate("MainWindow", "ASHAMED"))
         self.p3.setText(_translate("MainWindow", "CONFIDENT"))
