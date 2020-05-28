@@ -2,3 +2,5 @@ STEPS:
 1. pro1.py is the main code 
 2.icons.py,test1.py,test.py is the python converted code of the images used in the project these files are imported in the pro1.py
 3.put the all the files in the same project folder and then run the code pro1.py
+or
+To view the application output you can run the exe file
