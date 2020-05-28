@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>EMOTION.jpg</file>
+    <file>emotion2.png</file>
+  </qresource>
+</RCC>
